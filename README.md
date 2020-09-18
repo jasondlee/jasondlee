@@ -17,6 +17,14 @@
 <br />
 
 ### Languages and Tools:
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quarkus.svg" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/maven.svg" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/asciidoctor.svg" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" />]
+
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,12 +36,19 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br />
-<br />
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
 
-
-<img align="left" alt="jasondlee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasondlee&show_icons=true&hide_border=true&count_private=true" />
-
+<details>
+  <summary>:zap: Recent Github Stats</summary>
+    <img align="left" alt="jasondlee's Github Stats" 
+      src="https://github-readme-stats.codestackr.vercel.app/api?username=jasondlee&show_icons=true&hide_border=true&count_private=true" />
+  </summary>
+</details>
 [website]: https://jasondl.ee
 [twitter]: https://twitter.com/jasondlee
 [linkedin]: https://linkedin.com/in/jasondlee
