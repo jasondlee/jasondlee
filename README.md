@@ -6,7 +6,7 @@
 ## Christian. Husband. Father. Bass player. Martial Artist. Reader.
 
 - 🔭 Current status: Spring Boot + Kotlin backend developer. 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play bass and run.
 - Opinions are mine and not my employer's.[website]!
 
 ### Connect with me:
@@ -18,7 +18,9 @@
 
 ### Languages and Tools:
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 <br />
