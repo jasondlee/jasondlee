@@ -5,9 +5,9 @@
 
 ## Christian. Husband. Father. Bass player. Martial Artist. Reader.
 
-- 🔭 Current status: Spring Boot + Kotlin backend developer. 
+- 🔭 Current status: Spring Boot + Kotlin backend developer.
 - ⚡ Fun fact: I love to play bass and run.
-- Opinions are mine and not my employer's.[website]!
+- ⚠️ Opinions are mine and not my employer's.[website]!
 
 ### Connect with me:
 
@@ -19,10 +19,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/java.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
-<img align="left" alt="Java" width="26px" src="https://avatars1.githubusercontent.com/u/47638783?s=200&v=4" />
-
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Intellij IDEA" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
+<img align="left" alt="Quarkus" width="26px" src="https://avatars1.githubusercontent.com/u/47638783?s=200&v=4" />
+<img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 <br/>
 <br/>
 
