@@ -18,13 +18,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />][]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quarkus.svg" />][]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/maven.svg" />][]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/asciidoctor.svg" />][]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" />][]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][]
+[<img align="left" alt="Java" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][]
+[<img align="left" alt="Java" width="26px" src="https://avatars1.githubusercontent.com/u/47638783?s=200&v=4" />][]
 
 <br/>
 <br/>
@@ -55,7 +52,7 @@
 
     <img align="left" alt="jasondlee's Github Stats" 
       src="https://github-readme-stats.codestackr.vercel.app/api?username=jasondlee&show_icons=true&hide_border=true&count_private=true" />
-      
+
   </summary>
 </details>
 
