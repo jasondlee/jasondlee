@@ -17,6 +17,7 @@
 <br />
 
 ### Languages and Tools:
+
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />][]
@@ -25,8 +26,13 @@
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/asciidoctor.svg" />][]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" />][]
 
+<br/>
+<br/>
+
+---
 
 ### Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Java 15: New and Notable](http://jasondl.ee/posts/2020/java-15-new-and-notable.html)
 - [Writing CLIs with Spring Boot and JCommander](http://jasondl.ee/posts/2020/writing-clis-with-spring-boot-and-jcommander.html)
@@ -35,20 +41,24 @@
 - [Custom Methods in Spring Repositories](http://jasondl.ee/posts/2020/custom-methods-in-spring-repositories.html)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+---
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
 
 <details>
   <summary>:zap: Recent Github Stats</summary>
+
     <img align="left" alt="jasondlee's Github Stats" 
       src="https://github-readme-stats.codestackr.vercel.app/api?username=jasondlee&show_icons=true&hide_border=true&count_private=true" />
+      
   </summary>
 </details>
+
 [website]: https://jasondl.ee
 [twitter]: https://twitter.com/jasondlee
 [linkedin]: https://linkedin.com/in/jasondlee
