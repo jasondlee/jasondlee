@@ -55,3 +55,10 @@
 [website]: https://jasondl.ee
 [twitter]: https://twitter.com/jasondlee
 [linkedin]: https://linkedin.com/in/jasondlee
+
+
+<!-- 
+http://simpleicons.org 
+https://shields.io/
+https://emojipedia.org/
+-->
