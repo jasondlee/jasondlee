@@ -24,8 +24,6 @@
 <img align="left" alt="Quarkus" width="26px" src="https://avatars1.githubusercontent.com/u/47638783?s=200&v=4" />
 <img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
-<br/>
-<br/>
 
 ---
 
@@ -39,7 +37,6 @@
 - [Custom Methods in Spring Repositories](http://jasondl.ee/posts/2020/custom-methods-in-spring-repositories.html)
 <!-- BLOG-POST-LIST:END -->
 
----
 <!--
 <details>
   <summary>:zap: Recent Github Activity</summary>
