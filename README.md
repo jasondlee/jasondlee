@@ -6,8 +6,9 @@
 ## Christian. Husband. Father. Bass player. Martial Artist. Reader.
 
 - 🔭 Current status: Spring Boot + Kotlin backend developer.
+- 📖 Author [Java 9 Programming Blueprints][j9pb]
 - ⚡ Fun fact: I love to play bass and run.
-- ⚠️ Opinions are mine and not my employer's.[website]!
+- ⚠️ Opinions are mine and not my employer's:  [website]
 
 ### Connect with me:
 
@@ -55,7 +56,7 @@
 [website]: https://jasondl.ee
 [twitter]: https://twitter.com/jasondlee
 [linkedin]: https://linkedin.com/in/jasondlee
-
+[j9pb]: https://amzn.to/2FD2XAo
 
 <!-- 
 http://simpleicons.org 
