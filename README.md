@@ -31,11 +31,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas, 2020](http://jasondl.ee/posts/2020/merry-christmas.html)
 - [Writing CLIs with Spring Boot and JCommander](http://jasondl.ee/posts/2020/writing-clis-with-spring-boot-and-jcommander.html)
 - [Hands-free Flyway and Jooq](http://jasondl.ee/posts/2020/hands-free-flyway-and-jooq.html)
 - [Building Maps in Kotlin](http://jasondl.ee/posts/2020/building-maps-in-kotlin.html)
 - [Custom Methods in Spring Repositories](http://jasondl.ee/posts/2020/custom-methods-in-spring-repositories.html)
-- [Restoring a Deleted Git Branch](http://jasondl.ee/posts/2020/restoring-deleted-git-branch.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
