@@ -5,7 +5,7 @@
 
 ## Christian. Husband. Father. Bass player. Martial Artist. Reader.
 
-- 🔭 Current status: Spring Boot + Kotlin backend developer.
+- 🔭 Current status: Principal Software Engineer at Red Hat
 - 📖 Author [Java 9 Programming Blueprints][j9pb]
 - ⚡ Fun fact: I love to play bass and run.
 - ⚠️ Opinions are mine and not my employer's:  [website]
@@ -25,6 +25,8 @@
 <img align="left" alt="Quarkus" width="26px" src="https://avatars1.githubusercontent.com/u/47638783?s=200&v=4" />
 <img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
+
+<br />
 
 ---
 
