@@ -33,11 +33,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing and Test Quarkus Application using Keycloak and Wiremock](http://jasondl.ee/posts/2021/securing-and-testing-quarkus.html)
 - [Merry Christmas, 2020](http://jasondl.ee/posts/2020/merry-christmas.html)
 - [Java 15: New and Notable](http://jasondl.ee/posts/2020/java-15-new-and-notable.html)
 - [Writing CLIs with Spring Boot and JCommander](http://jasondl.ee/posts/2020/writing-clis-with-spring-boot-and-jcommander.html)
 - [Hands-free Flyway and Jooq](http://jasondl.ee/posts/2020/hands-free-flyway-and-jooq.html)
-- [Building Maps in Kotlin](http://jasondl.ee/posts/2020/building-maps-in-kotlin.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
