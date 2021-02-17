@@ -33,7 +33,7 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing and Test Quarkus Application using Keycloak and Wiremock](http://jasondl.ee/posts/2021/securing-and-testing-quarkus.html)
+- [Securing and Testing Quarkus Applications using Keycloak and Wiremock](http://jasondl.ee/posts/2021/securing-and-testing-quarkus.html)
 - [Merry Christmas, 2020](http://jasondl.ee/posts/2020/merry-christmas.html)
 - [Java 15: New and Notable](http://jasondl.ee/posts/2020/java-15-new-and-notable.html)
 - [Writing CLIs with Spring Boot and JCommander](http://jasondl.ee/posts/2020/writing-clis-with-spring-boot-and-jcommander.html)
