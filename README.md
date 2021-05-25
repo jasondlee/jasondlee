@@ -33,11 +33,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Jakarta EE 9.1 REST Project](http://jasondl.ee/posts/2021/a-simple-jakarta-ee-9-1-rest-project.html)
 - [Microprofile Fault Tolerance Retry in Action](http://jasondl.ee/posts/2021/microprofile-fault-tolerance-retry-in-action.html)
 - [Securing and Testing Quarkus Applications using Keycloak and Wiremock](http://jasondl.ee/posts/2021/securing-and-testing-quarkus.html)
 - [Merry Christmas, 2020](http://jasondl.ee/posts/2020/merry-christmas.html)
 - [Java 15: New and Notable](http://jasondl.ee/posts/2020/java-15-new-and-notable.html)
-- [Writing CLIs with Spring Boot and JCommander](http://jasondl.ee/posts/2020/writing-clis-with-spring-boot-and-jcommander.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
