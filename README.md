@@ -33,11 +33,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Update on OpenTelemetry and WildFly](http://jasondl.ee/posts/2021/an-update-on-opentelemetry-and-wildfly.html)
 - [OpenTelemetry and Jakarta REST Services](http://jasondl.ee/posts/2021/opentelemetry-and-jakarta-rest-services.html)
 - [A Simple Jakarta EE 9.1 REST Project](http://jasondl.ee/posts/2021/a-simple-jakarta-ee-9-1-rest-project.html)
 - [MicroProfile Fault Tolerance Retry in Action](http://jasondl.ee/posts/2021/microprofile-fault-tolerance-retry-in-action.html)
 - [Securing and Testing Quarkus Applications using Keycloak and Wiremock](http://jasondl.ee/posts/2021/securing-and-testing-quarkus.html)
-- [Merry Christmas, 2020](http://jasondl.ee/posts/2020/merry-christmas.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
