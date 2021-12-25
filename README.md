@@ -33,11 +33,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas, 2021](http://jasondl.ee/posts/2021/merry-christmas.html)
 - [WildFly and Micrometer](http://jasondl.ee/posts/2021/wildfly-and-micrometer.html)
 - [A Quarkus Command Line Application](http://jasondl.ee/posts/2021/a-quarkus-command-line-app.html)
 - [An Update on OpenTelemetry and WildFly](http://jasondl.ee/posts/2021/an-update-on-opentelemetry-and-wildfly.html)
 - [OpenTelemetry and Jakarta REST Services](http://jasondl.ee/posts/2021/opentelemetry-and-jakarta-rest-services.html)
-- [A Simple Jakarta EE 9.1 REST Project](http://jasondl.ee/posts/2021/a-simple-jakarta-ee-9-1-rest-project.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
