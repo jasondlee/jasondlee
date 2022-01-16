@@ -33,11 +33,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing with Quarkus, Jooq, and Testcontainers](http://jasondl.ee/posts/2021/testing-with-quarkus-jooq-testcontainers.html)
+- [Testing with Quarkus, jOOQ, and Testcontainers Redux](http://jasondl.ee/posts/2022/testing-with-quarkus-jooq-testcontainers-redux.html)
+- [Testing with Quarkus, jOOQ, and Testcontainers](http://jasondl.ee/posts/2021/testing-with-quarkus-jooq-testcontainers.html)
 - [Merry Christmas, 2021](http://jasondl.ee/posts/2021/merry-christmas.html)
 - [WildFly and Micrometer](http://jasondl.ee/posts/2021/wildfly-and-micrometer.html)
 - [A Quarkus Command Line Application](http://jasondl.ee/posts/2021/a-quarkus-command-line-app.html)
-- [An Update on OpenTelemetry and WildFly](http://jasondl.ee/posts/2021/an-update-on-opentelemetry-and-wildfly.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
