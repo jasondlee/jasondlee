@@ -33,11 +33,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exporting Arquillian Archives](http://jasondl.ee/posts/2022/exporting-arquillian-archives.html)
 - [Testing with Quarkus, jOOQ, and Testcontainers Redux](http://jasondl.ee/posts/2022/testing-with-quarkus-jooq-testcontainers-redux.html)
 - [Testing with Quarkus, jOOQ, and Testcontainers](http://jasondl.ee/posts/2021/testing-with-quarkus-jooq-testcontainers.html)
 - [Merry Christmas, 2021](http://jasondl.ee/posts/2021/merry-christmas.html)
 - [WildFly and Micrometer](http://jasondl.ee/posts/2021/wildfly-and-micrometer.html)
+- [A Quarkus Command Line Application](http://jasondl.ee/posts/2021/a-quarkus-command-line-app.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
