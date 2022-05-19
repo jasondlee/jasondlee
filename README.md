@@ -33,11 +33,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quarkus Dev Services, jOOQ, Flyway, and Testcontainers: A Full Example](http://jasondl.ee/posts/2022/quarkus-dev-services-jooq-flyway-testcontainers-full-example.html)
-- [Exporting Arquillian Archives](http://jasondl.ee/posts/2022/exporting-arquillian-archives.html)
-- [Testing with Quarkus, jOOQ, and Testcontainers Redux](http://jasondl.ee/posts/2022/testing-with-quarkus-jooq-testcontainers-redux.html)
-- [Testing with Quarkus, jOOQ, and Testcontainers](http://jasondl.ee/posts/2021/testing-with-quarkus-jooq-testcontainers.html)
-- [Merry Christmas, 2021](http://jasondl.ee/posts/2021/merry-christmas.html)
+- [Quarkus Dev Services, jOOQ, Flyway, and Testcontainers: A Full Example](https://jasondl.ee/2022/quarkus-dev-services-jooq-flyway-testcontainers-full-example)
+- [Exporting Arquillian Archives](https://jasondl.ee/2022/exporting-arquillian-archives)
+- [Testing with Quarkus, jOOQ, and Testcontainers Redux](https://jasondl.ee/2022/testing-with-quarkus-jooq-testcontainers-redux)
+- [Testing with Quarkus, jOOQ, and Testcontainers](https://jasondl.ee/2021/testing-with-quarkus-jooq-testcontainers)
+- [Merry Christmas, 2021](https://jasondl.ee/2021/merry-christmas)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
