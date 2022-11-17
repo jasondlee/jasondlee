@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=jasondl.ee&style=for-the-badge&url=https%3A%2F%2Fjasondl.ee)](https://jasondl.ee)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jasondlee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjasondlee&screen_name=jasondlee)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/22490?domain=https%3A%2F%2Fmastodon.cloud&color=1DA1F2&logo=mastodon&style=for-the-badge)](https://mastodon.cloud/@jasondlee)
 
 ## Christian. Husband. Father. Bass player. Martial Artist. Reader.
 
