@@ -14,6 +14,7 @@
 
 [<img align="left" alt="jasondl.ee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jasondlee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jasondlee | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 [<img align="left" alt="jasondlee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
@@ -57,6 +58,7 @@
 
 [website]: https://jasondl.ee
 [twitter]: https://twitter.com/jasondlee
+[mastodon]: https://mastodon.cloud/@jasondlee
 [linkedin]: https://linkedin.com/in/jasondlee
 [j9pb]: https://amzn.to/2FD2XAo
 
