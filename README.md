@@ -8,8 +8,8 @@
 
 - 🔭 Current status: Principal Software Engineer at Red Hat
 - 📖 Author [Java 9 Programming Blueprints][j9pb]
-- ⚡ Fun fact: I love to play bass and run.
-- ⚠️ Opinions are mine and not my employer's:  [website]
+- ⚡ Fun fact: I love to play bass, study martial arts, and run.
+- ⚠️ Opinions are mine, but can be yours: [website]
 
 ### Connect with me:
 
@@ -51,11 +51,13 @@
 </details>
 -->
 
+<!--
 <details>
   <summary>:zap: Recent Github Stats</summary>
     <img align="left" alt="jasondlee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasondlee&show_icons=true&hide_border=true&count_private=true" />
   </summary>
 </details>
+-->
 
 [website]: https://jasondl.ee
 [twitter]: https://twitter.com/jasondlee
