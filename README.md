@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WildFly, Micrometer, and OpenTelemetry](https://jasondl.ee/2023/wildfly-micrometer-opentelemetry)
 - [WildFly, Arquillian, Testcontainers, and Kafka](https://jasondl.ee/2022/wildfly-arquillian-testcontainers-and-kafka)
 - [Quarkus Dev Services, jOOQ, Flyway, and Testcontainers: A Full Example](https://jasondl.ee/2022/quarkus-dev-services-jooq-flyway-testcontainers-full-example)
 - [Exporting Arquillian Archives](https://jasondl.ee/2022/exporting-arquillian-archives)
 - [Testing with Quarkus, jOOQ, and Testcontainers Redux](https://jasondl.ee/2022/testing-with-quarkus-jooq-testcontainers-redux)
-- [Testing with Quarkus, jOOQ, and Testcontainers](https://jasondl.ee/2021/testing-with-quarkus-jooq-testcontainers)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
