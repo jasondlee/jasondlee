@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus for Frontend Devs](https://jasondl.ee/2023/quarkus-for-frontend-devs)
 - [Incorporating preview/experimental features in WildFly](https://jasondl.ee/2023/incorporating-experimental-features-in-wildfly)
 - [MyFaces 4 on WildFly](https://jasondl.ee/2023/myfaces-4-on-wildfly)
 - [WildFly, Micrometer, and OpenTelemetry](https://jasondl.ee/2023/wildfly-micrometer-opentelemetry)
 - [WildFly, Arquillian, Testcontainers, and Kafka](https://jasondl.ee/2022/wildfly-arquillian-testcontainers-and-kafka)
-- [Quarkus Dev Services, jOOQ, Flyway, and Testcontainers: A Full Example](https://jasondl.ee/2022/quarkus-dev-services-jooq-flyway-testcontainers-full-example)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
