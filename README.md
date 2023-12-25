@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Christmas 2023 - I Heard the Bells on Christmas Day](https://jasondl.ee/2023/christmas-2023-i-heard-the-bells)
 - [Quarkus for Frontend Devs](https://jasondl.ee/2023/quarkus-for-frontend-devs)
 - [Incorporating preview/experimental features in WildFly](https://jasondl.ee/2023/incorporating-experimental-features-in-wildfly)
 - [MyFaces 4 on WildFly](https://jasondl.ee/2023/myfaces-4-on-wildfly)
 - [WildFly, Micrometer, and OpenTelemetry](https://jasondl.ee/2023/wildfly-micrometer-opentelemetry)
-- [WildFly, Arquillian, Testcontainers, and Kafka](https://jasondl.ee/2022/wildfly-arquillian-testcontainers-and-kafka)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
