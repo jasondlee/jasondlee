@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Recap of my night at the Oklahoma City JUG](https://jasondl.ee/2025/a-recap-of-my-night-at-the-okcjug)
 - [Coil AsyncImage with Authentication](https://jasondl.ee/2025/coil-asyncimage-with-authentication)
 - [Christmas 2024 - Human and Divine](https://jasondl.ee/2024/christmas-2024-human-and-divine)
 - [Inter-container Communications with Testcontainers](https://jasondl.ee/2024/inter-container-communications-with-testcontainers)
 - [Christmas 2023 - I Heard the Bells on Christmas Day](https://jasondl.ee/2023/christmas-2023-i-heard-the-bells)
-- [Quarkus for Frontend Devs](https://jasondl.ee/2023/quarkus-for-frontend-devs)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
