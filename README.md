@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Compose Multiplatform](https://jasondl.ee/2025/getting-started-with-compose-multiplatform/)
+- [Mobile App Development Series Introduction](https://jasondl.ee/2025/mobile-app-development-series-introduction/)
 - [This Blog Now Roqs. I mean... it always has, of course, but now it REALLY does](https://jasondl.ee/2025/this-blog-now-roqs/)
 - [A Recap of my night at the Oklahoma City JUG](https://jasondl.ee/2025/a-recap-of-my-night-at-the-okcjug/)
 - [Coil AsyncImage with Authentication](https://jasondl.ee/2025/coil-asyncimage-with-authentication/)
-- [Christmas 2024 - Human and Divine](https://jasondl.ee/2024/christmas-2024-human-and-divine/)
-- [Inter-container Communications with Testcontainers](https://jasondl.ee/2024/inter-container-communications-with-testcontainers/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
