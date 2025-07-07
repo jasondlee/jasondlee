@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&amp;#39;s Up with expect/actual?](https://jasondl.ee/2025/what-s-up-with-expect-actual/)
 - [Compose Multiplatform with Decompose](https://jasondl.ee/2025/compose-multiplatform-with-decompose/)
 - [Getting Started with Compose Multiplatform](https://jasondl.ee/2025/getting-started-with-compose-multiplatform/)
 - [Mobile App Development Series Introduction](https://jasondl.ee/2025/mobile-app-development-series-introduction/)
 - [This Blog Now Roqs. I mean... it always has, of course, but now it REALLY does](https://jasondl.ee/2025/this-blog-now-roqs/)
-- [A Recap of my night at the Oklahoma City JUG](https://jasondl.ee/2025/a-recap-of-my-night-at-the-okcjug/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
