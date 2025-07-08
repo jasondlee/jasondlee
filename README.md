@@ -39,7 +39,7 @@
 - [Compose Multiplatform with Decompose](https://jasondl.ee/2025/compose-multiplatform-with-decompose/)
 - [Getting Started with Compose Multiplatform](https://jasondl.ee/2025/getting-started-with-compose-multiplatform/)
 - [Mobile App Development Series Introduction](https://jasondl.ee/2025/mobile-app-development-series-introduction/)
-- [This Blog Now Roqs. I mean... it always has, of course, but now it REALLY does](https://jasondl.ee/2025/this-blog-now-roqs/)
+- [This Blog Now Roqs. I mean... it always has, of course, but now it REALLY does](https://jasondl.ee/2025/this-blog-now-roqs-i-mean-it-always-has-of-course-but-now-it-really-does/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
