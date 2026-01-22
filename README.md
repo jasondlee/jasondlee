@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moar Data!](https://jasondl.ee/2026/moar-data/)
 - [Decompose and Data. Let&amp;#39;s See What You Got](https://jasondl.ee/2026/decompose-and-data-let-s-see-what-you-got/)
 - [Make Room for Some Data](https://jasondl.ee/2025/make-room-for-some-data/)
 - [Decompose Navigation: Let&amp;#39;s Add a Screen](https://jasondl.ee/2025/decompose-navigation-let-s-add-a-screen/)
 - [Decompose Navigation and the Root Component](https://jasondl.ee/2025/decompose-navigation-and-the-root-component/)
-- [What&amp;#39;s Up with expect/actual?](https://jasondl.ee/2025/what-s-up-with-expect-actual/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
