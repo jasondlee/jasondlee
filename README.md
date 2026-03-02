@@ -64,7 +64,7 @@
 [mastodon]: https://mastodon.cloud/@jasondlee
 [linkedin]: https://linkedin.com/in/jasondlee
 [j9pb]: https://amzn.to/2FD2XAo
-[assets]: https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/
+[assets]: https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets
 
 <!-- 
 http://simpleicons.org 
