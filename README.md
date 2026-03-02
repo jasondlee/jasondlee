@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jasondl.ee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jasondlee | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jasondlee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jasondlee | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="jasondl.ee" width="22px" src="https://raw.githubusercontent.com/niebert/icons4menu/refs/heads/master/img/icons-svg/fa-globe-white.svg" />][website]
+[<img align="left" alt="jasondlee | X" width="22px" src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" />][twitter]
+[<img align="left" alt="jasondlee | LinkedIn" width="22px" src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/icons8-linkedin-50.svg" />][linkedin]
+[<img align="left" alt="jasondlee | Mastodon" width="22px" src="[assets]/mastodon-white-icon.svg" />][mastodon]
 <br />
 
 ### Languages and Tools:
@@ -64,6 +64,7 @@
 [mastodon]: https://mastodon.cloud/@jasondlee
 [linkedin]: https://linkedin.com/in/jasondlee
 [j9pb]: https://amzn.to/2FD2XAo
+[assets]: https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/
 
 <!-- 
 http://simpleicons.org 
