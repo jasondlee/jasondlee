@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason - aka [jasondlee][website] 👋
 
 [![Website](https://img.shields.io/website?label=jasondl.ee&style=for-the-badge&url=https%3A%2F%2Fjasondl.ee)](https://jasondl.ee)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jasondlee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjasondlee&screen_name=jasondlee)
+[![X Follow](https://img.shields.io/twitter/follow/jasondlee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjasondlee&screen_name=jasondlee)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/22490?domain=https%3A%2F%2Fmastodon.cloud&color=1DA1F2&logo=mastodon&style=for-the-badge)](https://mastodon.cloud/@jasondlee)
 
 ## Christian. Husband. Father. Bass player. Martial Artist. Reader.
@@ -14,9 +14,9 @@
 ### Connect with me:
 
 [<img align="left" alt="jasondl.ee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jasondlee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jasondlee | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="jasondlee | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jasondlee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jasondlee | Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 <br />
 
 ### Languages and Tools:
