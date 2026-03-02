@@ -14,9 +14,9 @@
 ### Connect with me:
 
 [<img align="left" alt="jasondl.ee" width="22px" src="https://raw.githubusercontent.com/niebert/icons4menu/refs/heads/master/img/icons-svg/fa-globe-white.svg" />][website]
-[<img align="left" alt="jasondlee | X" width="22px" src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" />][twitter]
-[<img align="left" alt="jasondlee | LinkedIn" width="22px" src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/icons8-linkedin-50.svg" />][linkedin]
-[<img align="left" alt="jasondlee | Mastodon" width="22px" src="[assets]/mastodon-white-icon.svg" />][mastodon]
+[<img align="left" alt="jasondlee | X" width="22px" src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/x-social-media-white-icon.svg" />][twitter]
+[<img align="left" alt="jasondlee | LinkedIn" width="22px" src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/linkedin-app-white-icon.svg" />][linkedin]
+[<img align="left" alt="jasondlee | Mastodon" width="22px" src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/mastodon-white-icon.svg" />][mastodon]
 <br />
 
 ### Languages and Tools:
