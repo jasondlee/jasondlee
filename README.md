@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Claude Code: Guardrails for AI-Assisted Development by Jim Manico](https://jasondl.ee/2026/securing-claude-code-guardrails-for-ai-assisted-development-by-jim-manico/)
 - [Koin: The Way Object Handling Was Mint to Be](https://jasondl.ee/2026/koin-the-way-object-handling-was-mint-to-be/)
 - [Moar Data!](https://jasondl.ee/2026/moar-data/)
 - [Decompose and Data. Let&amp;#39;s See What You Got](https://jasondl.ee/2026/decompose-and-data-let-s-see-what-you-got/)
 - [Make Room for Some Data](https://jasondl.ee/2025/make-room-for-some-data/)
-- [Decompose Navigation: Let&amp;#39;s Add a Screen](https://jasondl.ee/2025/decompose-navigation-let-s-add-a-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
