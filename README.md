@@ -35,11 +35,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Your Multiplatform App](https://jasondl.ee/2026/testing-your-multiplatform-app/)
 - [Releasing with JReleaser](https://jasondl.ee/2026/08/21/releasing-with-jreleaser/)
 - [Securing Claude Code: Guardrails for AI-Assisted Development by Jim Manico](https://jasondl.ee/2026/securing-claude-code-guardrails-for-ai-assisted-development-by-jim-manico/)
 - [Koin: The Way Object Handling Was Mint to Be](https://jasondl.ee/2026/koin-the-way-object-handling-was-mint-to-be/)
 - [Moar Data!](https://jasondl.ee/2026/moar-data/)
-- [Decompose and Data. Let&#39;s See What You Got](https://jasondl.ee/2026/decompose-and-data-let-s-see-what-you-got/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
